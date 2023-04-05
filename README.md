@@ -30,7 +30,7 @@ With these steps, you can implement a generative AI solution that uses Azure Ope
 
 ## Details:
 
-In this code, we first set up the OpenAI API credentials and configuration at the beginning of the code. Then, we define the `get_response` function using the `openai` library, which we call whenever we need to get a response from the OpenAI API.
+In this [Code](ChatBot.ipynb), we first set up the OpenAI API credentials and configuration at the beginning of the code. Then, we define the `get_response` function using the `openai` library, which we call whenever we need to get a response from the OpenAI API.
 
 Finally, we define the `chat` function, which handles the conversation with the user. Whenever the user enters input, we call the `get_response` function to get a response from the OpenAI API, and then print the response to the console.
 
@@ -42,7 +42,7 @@ To use this code in your Colab notebook, you'll need to replace "YOUR_OPENAI_API
 
 You can install the `openai` module using pip, which is a package manager for Python. Here's how you can install the `openai` module:
 
-pip install openai
+```pip install openai```
 
 Wait for the installation to complete. Once the installation is complete, you should be able to import the openai module in your Python code.
 After installing the openai module, try running your code again and see if the error goes away.

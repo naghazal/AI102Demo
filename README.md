@@ -22,7 +22,7 @@ The demo idea is to create an AI-powered chatbot that can communicate with users
 
 5. Set up a development environment: You'll need to set up a development environment to write the code for the chatbot. You can use any programming language that supports HTTP requests, such as Python or Node.js. You can use Colab (https://colab.research.google.com/) to run the code.
 
-6. Write the code: You can find the code [here](code.py).
+6. Write the code: You can find the code [here](ChatBot.ipynb).
 
 7. Test the chatbot: You can test the chatbot to make sure it's working correctly. You can use tools like Postman or cURL to send HTTP requests to the API and see the responses.
 

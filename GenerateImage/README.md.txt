@@ -1,0 +1,1 @@
+Waiting for the dall-e module to be available

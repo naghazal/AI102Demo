@@ -1,3 +1,5 @@
+[![Open in Remote - Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Remote%20-%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/naghazal/AI102Demo)
+
 # Azure OpenAI Services Demo
 
 Welcome to the Azure OpenAI Services Demo repository! 
